@@ -21,13 +21,15 @@ a{
   
   
 }
+
+
 .head-elements ul{
   display: flex;
   padding-top: 40px;
   margin-top: 0%;
 }
 .head-item{
-  margin-right: 71px;
+  margin-left: 71px;
 }
 .head-link1{
   border: 2px solid #717CFF;
@@ -52,6 +54,12 @@ a{
   display: inline;
   vertical-align: middle;
   padding-top: 5px;
+}
+
+
+.hero-img{
+  width: 100%;
+  height: 570px;
 }
 /* HEADER SECTION END */
 
@@ -90,8 +98,8 @@ a{
   font-size: 22px;
   line-height: 40px;
   margin-top: 32px;
-
   color: #FFFFFF;
+  border: none;
 }
 .hero-btn-img{
   vertical-align: middle;
@@ -307,6 +315,7 @@ a{
   line-height: 40px;
   margin-top: 32px;
   color: #FFFFFF;
+  border: none;
 }
 /* NEWS SECTION END */
 /* SECTION EVENTS */
