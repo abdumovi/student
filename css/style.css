@@ -21,12 +21,16 @@ a{
   
   
 }
-
+.head-img{
+  vertical-align: middle;
+  margin-top: 12px;
+}
 
 .head-elements ul{
   display: flex;
   padding-top: 40px;
   margin-top: 0%;
+  margin-bottom: 0%;
 }
 .head-item{
   margin-left: 71px;
