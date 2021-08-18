@@ -181,7 +181,6 @@ a{
 /* SECTION SERVIS */
 
 .row-img-all::before{
-  display: flex;
   display: inline-block;
   width: 77px;
   height: 77px;
